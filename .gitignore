@@ -107,3 +107,5 @@ InitTestScene*.unity*
 # exclude Android and macOS build outputs
 *.apk
 *.app
+
+.DS_Store
