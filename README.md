@@ -2,7 +2,7 @@
 A basic media player app made in Unity.
 
 > [!CAUTION]
-> This app has not been updated to fix the current security issue (CVE-2025-59489) with Unity 2017.1 and later. I am looking into fixing this very soon.
+> **I am updating this app to fix the current security issue (CVE-2025-59489) with Unity 2017.1 and later. I am looking into fixing this very soon. Until the new release, DO NOT use Unity Media Player releases.**
 
 **NOTE:** This app was built with Unity editor 2022.3.2f1. Older/newer versions of the editor may not be compatible with the source.
 
