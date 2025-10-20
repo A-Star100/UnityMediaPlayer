@@ -2,9 +2,9 @@
 A basic media player app made in Unity.
 
 > [!CAUTION]
-> **I am updating this app to fix the current security issue (CVE-2025-59489) with Unity 2017.1 and later. Until the new release, DO NOT use Unity Media Player releases.**
+> **Only use v1.2 and later, older versions contain CVE-2025-59489.**
 
-**NOTE:** This app was built with Unity editor 2022.3.2f1. Older/newer versions of the editor may not be compatible with the source.
+**NOTE:** This app was built with Unity editor 2022.3.62f2. Older/newer versions of the editor may not be compatible with the source.
 
 ## Things to know
 - **Quad:** Used as a projector for the VideoPlayer component in Unity. Do not use a plane, as its orientation is flipped compared to a Quad, so the video will display upside down, and there aren't many beginner-friendly ways to fix that.
